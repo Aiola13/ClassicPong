@@ -1,8 +1,8 @@
 # Bienvenue sur ClassicPong
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=aiola13)
-![Files](https://img.shields.io/github/directory-file-count/Aiola13/Aiola13?style=flat-square)
-![Size](https://img.shields.io/github/repo-size/Aiola13/Aiola13?style=flat-square)
+![Files](https://img.shields.io/github/directory-file-count/Aiola13/ClassicPong?style=flat-square)
+![Size](https://img.shields.io/github/repo-size/Aiola13/ClassicPong?style=flat-square)
 
 <p><img width="1000" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"></p>
 
